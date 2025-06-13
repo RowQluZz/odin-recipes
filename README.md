@@ -16,3 +16,11 @@ Building the website
 5. started making the list in the index file
 6. created two unordered lists and linked them to each recipe
 7. added target_blank and rel noopener noreferrer to open in a new tab and to ensure security
+
+8.created a new directory called recipe-pics for the picrutes im going to use
+9.spaghetti page changes
+-added a free image of a spaghetti
+-under the image added the ingredient list(unordered list)
+-after the ingredients added steps of instructions on how to make the dish(ordered list)
+added a link saying "check out our other recipes!" linking to the home page
+10.removed the target_blank and rel noopener noreferrer for esthetic purposes
