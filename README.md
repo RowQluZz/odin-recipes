@@ -28,3 +28,5 @@ added a link saying "check out our other recipes!" linking to the home page
 11. filled the usual html boilerplate of french-fries.html.
 12. added pictures and descriptions to all recipes.
 13. finished the spaghetti page.
+
+14. finished the scrambled eggs page.
