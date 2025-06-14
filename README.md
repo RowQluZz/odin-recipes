@@ -30,3 +30,8 @@ added a link saying "check out our other recipes!" linking to the home page
 13. finished the spaghetti page.
 
 14. finished the scrambled eggs page.
+
+15. finished the spaghetti page
+16. Made some changes in the French fries img.
+17. Finished the french fries page.
+18. Project DONEE!!!
