@@ -1,3 +1,53 @@
 body {
     background-color: rgba(0, 0, 0, 0.938);
 }
+
+.title {
+    background-color: whitesmoke;
+    width: 550px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+
+
+.container {
+    background-color: whitesmoke;
+    width: 600px;
+    margin: auto;
+    margin-top: 7px;
+    border: black solid;
+    padding-bottom: 480px;
+    height:60px;
+
+}
+
+.eggs {
+    border-bottom: rgb(0, 0, 0) solid;
+    padding: 70px;
+    position: relative; 
+    height: 21.6px;
+}
+
+.buttonegg {
+  position: absolute;  /* Absolutely position inside .eggs */
+  bottom: 10px;        /* Distance from bottom */
+  right: 10px;
+}
+
+.spaghetti {
+    height: 50px;
+    border-bottom: black solid;
+    padding: 70px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+
+
